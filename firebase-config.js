@@ -13,14 +13,14 @@
 // ============================================================
 
 export const firebaseConfig = {
-  apiKey: "YOUR_API_KEY_HERE",
-  authDomain: "your-project.firebaseapp.com",
-  projectId: "your-project-id",
-  storageBucket: "your-project.appspot.com",
-  messagingSenderId: "000000000000",
-  appId: "1:000000000000:web:abcdef1234567890"
+  apiKey: "AIzaSyAeSqxW0w6SPzXK7-fVZv4vCM3LOgTN2d8",
+  authDomain: "forge-app-b5d99.firebaseapp.com",
+  projectId: "forge-app-b5d99",
+  storageBucket: "forge-app-b5d99.firebasestorage.app",
+  messagingSenderId: "718617949190",
+  appId: "1:718617949190:web:2ce21734721f909bdb3f87"
 };
 
 // Your personal user ID. Since there's just you + your parents reading,
 // a static ID is fine. Change this to anything you like.
-export const USER_ID = "forge_primary_user";
+export const USER_ID = "JillianP";
