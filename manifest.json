@@ -1,0 +1,22 @@
+{
+  "name": "FORGE",
+  "short_name": "FORGE",
+  "description": "Army Fitness Test training — built for the woman becoming a soldier",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fdf8fb",
+  "theme_color": "#7b3f6e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
